@@ -11,3 +11,7 @@
 🖥️ Building My Programming Portfolio One Project at a Time
 
 🚀 Join me as I build the future, one line of code at a time! 🚧
+
+### <img align="center" width="5%" alt="gear" src="Assets/program.gif"> Learning Languages:
+<hr>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
